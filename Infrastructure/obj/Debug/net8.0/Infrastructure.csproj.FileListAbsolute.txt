@@ -1,0 +1,15 @@
+C:\Users\Mathe\Coding\TodoList\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Mathe\Coding\TodoList\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Mathe\Coding\TodoList\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Mathe\Coding\TodoList\Infrastructure\bin\Debug\net8.0\Model.dll
+C:\Users\Mathe\Coding\TodoList\Infrastructure\bin\Debug\net8.0\Model.pdb
+C:\Users\Mathe\Coding\TodoList\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mathe\Coding\TodoList\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathe\Coding\TodoList\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mathe\Coding\TodoList\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Mathe\Coding\TodoList\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\Coding\TodoList\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Mathe\Coding\TodoList\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Mathe\Coding\TodoList\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Mathe\Coding\TodoList\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Mathe\Coding\TodoList\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
